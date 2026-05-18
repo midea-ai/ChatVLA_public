@@ -10,9 +10,10 @@ with Vision-Language-Action Model
   [EMNLP(https://aclanthology.org/2025.emnlp-main.273.pdf)
   
 ## 📰 Authors
-Zhongyi Zhou1,2*;  Yichen Zhu2*†; Minjie Zhu2; Junjie Wen2; Ning Liu4; Zhiyuan Xu4; Weibin Meng5; Yaxin Peng3; Chaomin Shen1†; Feifei Feng2; Yi Xu2
-1East China Normal University, 2Midea Group, 3Shanghai University,4Beijing Innovation Center of Humanoid Robotics, 5Tsinghua University
-*∗ Co-first author. † Corresponding author. This work was done during Zhongyi Zhou's internship at Midea.
+*  Zhongyi Zhou 1,2*;  Yichen Zhu 2*†;  Minjie Zhu 2; Junjie Wen 2; Ning Liu 4; Zhiyuan Xu 4; Weibin Meng 5; Yaxin Peng 3; Chaomin Shen 1†;  Feifei Feng 2; Yi Xu 2 <br>
+*  1 East China Normal University, 2 Midea Group, 3 Shanghai University, 4 Beijing Innovation Center of Humanoid Robotics, 5 Tsinghua University<br>
+*  *∗ Co-first author. † Corresponding author. <br>
+*  This work was done during Zhongyi Zhou's internship at Midea.<br>
 
 
 ## 📰 News
